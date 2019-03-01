@@ -4,8 +4,8 @@ in Multiplayer Multi-Armed Bandits"
 collection: publications
 permalink: /publication/sic-mmab
 excerpt: 'Submitted to COLT'
-date: 2019-02-04
-#venue: 'arXiv'
+date: 2019-02-05
+venue: 'arXiv'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
 bandit problem, where several players pull arms simultaneously and collisions occur if one of
