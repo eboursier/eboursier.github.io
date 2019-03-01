@@ -5,9 +5,7 @@ collection: publications
 permalink: /publication/sic-mmab
 excerpt: 'Submitted to COLT'
 date: 2019-02-04
-venue: 
-paperurl: 'https://arxiv.org/pdf/1809.08151.pdf'
-citation: 'Etienne Boursier and Vianney Perchet. SIC - MMAB: Synchronisation Involves Communication. arXiv.org:1809.08151, 2019'
+venue: 'arXiv'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
 bandit problem, where several players pull arms simultaneously and collisions occur if one of
