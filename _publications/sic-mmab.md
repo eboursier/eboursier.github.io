@@ -22,4 +22,4 @@ Finally, we prove that the logarithmic growth of the regret is still achievable 
 case where players are not synchronized with each other, thus preventing communication.
 
 
-[Download paper](http://eboursier.github.io/files/sic-mmab.pdf) / [Download citation](http://eboursier.github.io/files/sic-mmab.bib)
+[Download paper](http://eboursier.github.io/files/sic-mmab.pdf) / [citation](http://eboursier.github.io/files/sic-mmab.bib)
