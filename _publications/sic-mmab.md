@@ -12,4 +12,4 @@ citation: 'Etienne Boursier and Vianney Perchet. SIC - MMAB: Synchronisation Inv
 Submitted to COLT
 [Download paper here](https://arxiv.org/pdf/1809.08151.pdf)
 
-[Download citation here]('http://academicpages.github.io/files/sic-mmab.bib')
+[Download citation here](http://academicpages.github.io/files/sic-mmab.bib)
