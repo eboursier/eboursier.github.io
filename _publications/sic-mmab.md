@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/sic-mmab
 excerpt: 'Submitted to COLT'
 date: 2018-09-21
-type: 'preprint'
+pubtype: 'preprint'
 venue: 'arXiv test'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
