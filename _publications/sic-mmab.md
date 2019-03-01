@@ -5,7 +5,6 @@ collection: publications
 permalink: /publication/sic-mmab
 excerpt: 'Submitted to COLT'
 date: 2018-09-21
-venue: 'arXiv'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
 bandit problem, where several players pull arms simultaneously and collisions occur if one of
