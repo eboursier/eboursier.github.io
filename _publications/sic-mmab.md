@@ -4,7 +4,7 @@ in Multiplayer Multi-Armed Bandits"
 collection: publications
 permalink: /publication/sic-mmab
 excerpt: 'Submitted to COLT'
-date: 2019-02-05
+date: 2018-09-21
 venue: 'arXiv'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
