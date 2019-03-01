@@ -4,7 +4,7 @@ in Multiplayer Multi-Armed Bandits"
 collection: publications
 permalink: /publication/sic-mmab
 date: 2018-09-21
-excerpt:
+excerpt: ''
 pubtype: 'preprint'
 venue: 'COLT'
 ---
