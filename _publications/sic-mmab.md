@@ -24,4 +24,5 @@ case where players are not synchronized with each other, thus preventing communi
 
 
 [Download paper](http://eboursier.github.io/files/sic-mmab.pdf)
+
 [Download citation](http://eboursier.github.io/files/sic-mmab.bib)
