@@ -8,6 +8,7 @@ excerpt: ''
 pubtype: 'preprint'
 venue: 'COLT 2019'
 author: 'E. Boursier and V. Perchet'
+citation: 'E. Boursier and V. Perchet. SIC-MMAB: synchronisation involves communication in multi-player multi-armed bandits. arXiv.org:1809.08151, 2018.'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
 bandit problem, where several players pull arms simultaneously and collisions occur if one of
