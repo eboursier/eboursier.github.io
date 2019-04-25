@@ -7,7 +7,6 @@ date: 2018-09-21
 excerpt: ''
 pubtype: 'preprint'
 author: 'E. Boursier and V. Perchet'
-venue: ''
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
 bandit problem, where several players pull arms simultaneously and collisions occur if one of
