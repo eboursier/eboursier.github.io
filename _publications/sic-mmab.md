@@ -6,7 +6,6 @@ permalink: /publication/sic-mmab
 date: 2018-09-21
 excerpt: ''
 pubtype: 'preprint'
-venue: 'COLT 2019'
 author: 'E. Boursier and V. Perchet'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
