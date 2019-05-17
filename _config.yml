@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Etienne Boursier"
-description              : &description "PhD Candidate"
+description              : &description "PhD Student"
 url                      : https:/eboursier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Etienne Boursier"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate"
+  bio              : "PhD Student"
   location         : "ENS Paris-Saclay, Cachan, France"
   employer         :
   pubmed           : 
