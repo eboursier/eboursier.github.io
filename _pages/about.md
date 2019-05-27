@@ -10,5 +10,5 @@ redirect_from:
 
 I am a PhD student at ENS Paris-Saclay since September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/). My PhD title is "Statistical Learning in a strategical environment". I am interested in Statistical Machine Learning and Game Theory. Especially, my current topics of research are Multiplayer Multi-Armed bandits and Private Learning.
 
-<span style="color:red">some **News:** text</span> with the recent NeurIPS deadline, I submitted *Private Learning and Regularized Optimal Transport* in collaboration with Vianney Perchet. It is available in the publications page. Also, the code for *Private Learning and Regularized Optimal Transport* and *SIC-MMAB* are both available on my GitHub.
+<span style="color:red">**News:** text</span> with the recent NeurIPS deadline, I submitted *Private Learning and Regularized Optimal Transport* in collaboration with Vianney Perchet. It is available in the publications page. Also, the code for *Private Learning and Regularized Optimal Transport* and *SIC-MMAB* are both available on my GitHub.
 
