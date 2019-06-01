@@ -8,18 +8,8 @@ excerpt: ''
 pubtype: 'preprint'
 author: 'E. Boursier and V. Perchet'
 ---
-Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed
-bandit problem, where several players pull arms simultaneously and collisions occur if one of
-them is pulled by several players at the same stage. We construct a decentralized algorithm
-that achieves the same performance as a centralized one as long as players are synchronized and
-observe their collisions. We actually achieve this result by constructing a communication protocol
-between players that deliberately enforces collisions, allowing them to share their information at
-a negligible cost.
-Under a weaker assumption on the feedback, i.e., collisions are not observed, we still maintain
-some communication between players but at the cost of some extra multiplicative term in the
-regret.
-Finally, we prove that the logarithmic growth of the regret is still achievable in the dynamic
-case where players are not synchronized with each other, thus preventing communication.
+Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed bandit problem, where several players pull arms simultaneously and collisions occur if one of them is pulled by several players at the same stage.  We present a decentralized algorithm that achieves the same performance as a centralized one,  contradicting the existing lower bounds for that problem. This is possible by "hacking" the standard model by constructing a communication protocol between players that deliberately enforces collisions, allowing them to share their information at a negligible cost. 
+This motivates the introduction of a more appropriate dynamic setting without sensing, where similar communication protocols are no longer possible. However, we show that the logarithmic growth of the regret is still achievable for this model with a new algorithm.
 
 
 [Download paper](http://eboursier.github.io/files/sic-mmab.pdf) / [citation](http://eboursier.github.io/files/sic-mmab.bib)
