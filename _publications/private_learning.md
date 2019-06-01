@@ -21,4 +21,4 @@ efficiently solvable. We apply these techniques to preserve some privacy in onli
 repeated auctions.
 
 
-[Download paper](http://eboursier.github.io/files/private_learning.pdf)
+[Download paper](http://eboursier.github.io/files/private_learning.pdf) / [citation](http://eboursier.github.io/files/private_learning.bib)
