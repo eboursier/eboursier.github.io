@@ -12,4 +12,4 @@ We study a multiplayer stochastic multi-armed bandit problem in which players ca
 We consider the challenging heterogeneous setting, in which different arms may have different means for different players, and propose a new, efficient algorithm that combines the idea of leveraging forced collisions for implicit communication and that of performing matching eliminations. We give a finite-time analysis of our algorithm, bounding its regret by $O((\log T)^{1+\kappa})$ for any fixed $\kappa>0$. 
 If the optimal assignment of players to arms is unique, we further show that it attains the optimal $O(\log(T))$ regret, solving an open question raised at NeurIPS 2018.
 
-[Download paper](http://eboursier.github.io/files/elim-etc.pdf)
+[Download paper](http://eboursier.github.io/files/elim-etc.pdf) / [citation](http://eboursier.github.io/files/elim-etc.bib)
