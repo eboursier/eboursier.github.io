@@ -13,3 +13,4 @@ We consider the challenging heterogeneous setting, in which different arms may h
 If the optimal assignment of players to arms is unique, we further show that it attains the optimal $O(\log(T))$ regret, solving an open question raised at NeurIPS 2018.
 
 [Download paper](http://eboursier.github.io/files/elim-etc.pdf) / [citation](http://eboursier.github.io/files/elim-etc.bib)
+[arXiv link](https://arxiv.org/abs/1902.01239)
