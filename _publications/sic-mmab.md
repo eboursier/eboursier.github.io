@@ -13,3 +13,5 @@ This motivates the introduction of a more appropriate dynamic setting without se
 
 
 [Download paper](http://eboursier.github.io/files/sic-mmab.pdf) / [citation](http://eboursier.github.io/files/sic-mmab.bib)
+
+[arXiv link](https://arxiv.org/abs/1809.08151)
