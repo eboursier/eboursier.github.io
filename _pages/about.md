@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am a PhD student at ENS Paris-Saclay since September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/). My PhD title is "Statistical Learning in a strategical environment". I am interested in Statistical Machine Learning and Game Theory. Especially, my current topics of research are Multiplayer Multi-Armed bandits and Private Learning.
-
-%<span style="color:red">**News:**</span>
