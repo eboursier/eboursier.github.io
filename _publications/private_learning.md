@@ -1,7 +1,7 @@
 ---
 title: "Private Learning and Regularized Optimal Transport"
 collection: publications
-permalink: /files/private_learning.pdf
+permalink: /publication/private_learning
 date: 2019-05-28
 excerpt: ''
 pubtype: 'preprint'
