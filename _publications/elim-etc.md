@@ -2,7 +2,7 @@
 title: "A Practical Algorithm for Multiplayer Bandits
 when Arm Means Vary Among Players"
 collection: publications
-permalink: /files/elim-etc.pdf
+permalink: /publication/elim-etc
 date: 2019-06-06
 excerpt: ''
 pubtype: 'preprint'
