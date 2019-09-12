@@ -7,6 +7,7 @@ date: 2018-09-21
 excerpt: ''
 pubtype: 'conference'
 venue: 'NeurIPS 2019'
+published: ''
 author: 'E. Boursier and V. Perchet'
 ---
 Motivated by cognitive radio networks, we consider the stochastic multiplayer multi-armed bandit problem, where several players pull arms simultaneously and collisions occur if one of them is pulled by several players at the same stage.  We present a decentralized algorithm that achieves the same performance as a centralized one,  contradicting the existing lower bounds for that problem. This is possible by "hacking" the standard model by constructing a communication protocol between players that deliberately enforces collisions, allowing them to share their information at a negligible cost. 
