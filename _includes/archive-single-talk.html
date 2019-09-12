@@ -33,7 +33,6 @@
       {% endif %}
     </h3>
 
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="page__meta">{{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.venue }}, {{ post.date | date: '%B, %Y' }}, {{post.location}}</p>{% endif %}
   </article>
 </div>
