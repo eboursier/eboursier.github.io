@@ -2,6 +2,7 @@
 title: "SIC - MMAB: Synchronisation Involves Communication
 in Multiplayer Multi-Armed Bandits"
 collection: publications
+link: http://eboursier.github.io/files/sic-mmab.pdf
 permalink: /publication/sic-mmab
 date: 2018-09-21
 excerpt: ''
