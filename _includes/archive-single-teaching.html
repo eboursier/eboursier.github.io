@@ -33,7 +33,7 @@
       {% endif %}
     </h3>
         {% if post.collection == 'teaching' %}
-          <p class="archive__item-excerpt" itemprop="description"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p class="archive__item-excerpt" itemprop="description"> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.startdate}}-{{ post.enddate }} </p>
         {% endif %}
     
   </article>
