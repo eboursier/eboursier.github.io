@@ -4,7 +4,8 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2018-winter-teaching-1
 venue: "ENS Paris-Saclay"
-date: 2018-10-01
+startdate: 2018
+enddate: 2020
 location: "Cachan, France"
 ---
 
