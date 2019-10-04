@@ -14,6 +14,6 @@ Before this, I got an engineering degree from Ecole Polytechnique and a Master i
 
 ## News
 
-* "Private Learning and Regularized Optimal Transport" got accepted at [Optimal Transport in Machine Learning NeurIPS workshop](https://sites.google.com/view/otml2019/). <span style="color:grey">02-10-2019</span>
-* "SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits " got accepted at [NeurIPS 2019](https://neurips.cc/) (spotlight) ! <span style="color:grey">04-09-2019</span>
-* Invited to present a short talk about "Private Learning and Regularized Optimal Transport" at [StatMathAppli 2019](https://statmathappli.mia.inra.fr/). <span style="color:grey">11-07-2019</span>
+* "Private Learning and Regularized Optimal Transport" got accepted at [Optimal Transport in Machine Learning NeurIPS workshop](https://sites.google.com/view/otml2019/). <sub><sup><span style="color:grey">02-10-2019</span></sup></sub>
+* "SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits " got accepted at [NeurIPS 2019](https://neurips.cc/) (spotlight) ! <sub><sup><span style="color:grey">04-09-2019</span></sup></sub>
+* Invited to present a short talk about "Private Learning and Regularized Optimal Transport" at [StatMathAppli 2019](https://statmathappli.mia.inra.fr/). <sub><sup><span style="color:grey">11-07-2019</span></sup></sub>
