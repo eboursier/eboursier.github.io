@@ -9,33 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-ongoing: PhD Student
+  * ENS Paris-Saclay, France
+  * PhD title: "Statistical Learning in a strategical environment"
+  * Supervisor: Vianney Perchet
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2018: Research Intern
+  * ENS Paris-Saclay, France
+  * Preliminary work for PhD on multiplayer bandits
+  * Supervisor: Vianney Perchet
+
+* Summer 2017: Research Intern
+  * UCSD, California
+  * Supervisor: Yannis Papakonstantinou
+  * worked on PlatoDB: a database for approximate query processing
+  * Received Congratualtions prize for the research internship from École Polytechnique
+    
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 2018: M.S. in ML and Computer Vision (MVA) with High Honors, ENS Paris-Saclay, Cachan, France
+* 2014: B.S. in Mathematics, Ecole Polytechnique, Palaiseau, France
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +50,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<> Service and leadership
+<> ======
+<> * Currently signed in to 43 different slack teams
