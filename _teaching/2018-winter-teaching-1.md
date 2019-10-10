@@ -11,4 +11,4 @@ location: "Cachan, France"
 
 Teaching assistant for the course "Integration et Probabilités" at ENS Paris-Saclay to first year students (last year of bachelor).
 
-[Link to the course material.](https://elearn.ens-cachan.fr/course/view.php?id=1667)
+[Link to the course material.](https://elearn.ens-cachan.fr/course/view.php?id=1690)
