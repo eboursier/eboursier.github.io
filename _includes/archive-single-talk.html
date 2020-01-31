@@ -25,13 +25,13 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
+    
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+  
 
     {% if post.date %}<p class="archive__item-excerpt" itemprop="description"><i class="fa fa-clock-o" aria-hidden="true"></i>{{ post.venue }}, {{ post.date | date: '%B, %Y' }}, {{post.location}}</p>{% endif %}
   </article>
