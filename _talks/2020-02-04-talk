@@ -1,0 +1,14 @@
+---
+title: "NeurIPS debrief"
+collection: talks
+type: "Talk"
+link: http://eboursier.github.io/talks/2019-09-03-talk
+permalink: /talks/2019-09-03-talk
+venue: "MLMDA Seminar"
+date: 2020-02-04
+location: "Cachan, France"
+---
+
+Presentation of two papers of NeurIPS2019:
+  - Fast and Accurate Least-Mean-Squares Solvers
+  - Recovering Bandits
