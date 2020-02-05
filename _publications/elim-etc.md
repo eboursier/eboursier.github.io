@@ -6,7 +6,8 @@ link: https://arxiv.org/abs/1902.01239
 permalink: /publication/elim-etc
 date: 2019-06-06
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
+venu: 'AISTATS 2020'
 author: 'E. Boursier, E. Kaufmann, A. Mehrabian, V. Perchet'
 ---
 We study a multiplayer stochastic multi-armed bandit problem in which players cannot communicate, and if two or more players pull the same arm, a collision occurs and the involved players receive zero reward. 
