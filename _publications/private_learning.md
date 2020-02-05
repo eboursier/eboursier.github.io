@@ -5,8 +5,8 @@ link: https://arxiv.org/abs/1905.11148
 permalink: /publication/private_learning
 date: 2019-05-28
 excerpt: ''
-pubtype: 'workshop'
-venue: ' Optimal Transport in Machine Learning, NeurIPS 2019'
+pubtype: 'conference'
+venue: ' AISTATS 2020'
 author: 'E. Boursier and V. Perchet'
 ---
 
