@@ -10,13 +10,6 @@ author_profile: true
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
-  
-<h2>Workshops</h2>
-  {% for post in site.publications reversed %} 
-    {% if post.pubtype == 'workshop' %} 
-      {% include archive-single.html %} 
-    {% endif %}
-  {% endfor %}
 
 <h2>Conferences</h2>
   {% for post in site.publications reversed %} 
