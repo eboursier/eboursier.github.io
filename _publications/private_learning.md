@@ -6,7 +6,7 @@ permalink: /publication/private_learning
 date: 2019-05-28
 excerpt: ''
 pubtype: 'conference'
-venue: ' AISTATS 2020'
+venue: 'AISTATS 2020'
 author: 'E. Boursier and V. Perchet'
 ---
 
