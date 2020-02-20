@@ -13,8 +13,9 @@ I am a PhD student at ENS Paris-Saclay since September 2018 under the supervisio
 Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
 
 ## News
+* I will be visiting [LUISS](https://www.luiss.edu/) university at Rome for a month, starting in mid-April. I will be especially working with [Marco Scarsini](http://docenti.luiss.it/scarsini/) on Social Learning, as well as giving a [talk](https://economiaefinanza.luiss.it/seminar/2020/02/10/multi-player-multi-armed-bandits-diversified-problem) on Multiplayer bandits on April 23rd. <sub><sup><span style="color:grey">20-02-2020</span></sup></sub>
 * *Utility/Privacy Trade-off through the lens of Optimal Transport* and *A Practical Algorithm for Multiplayer Bandits when Arm Means Vary Among Players* both got accepted at [AISTATS2020](https://www.aistats.org/). <sub><sup><span style="color:grey">07-01-2020</span></sup></sub>
 * I will be presenting a talk on *SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits* at ENS Paris-Saclay, November 26th. Slides [here](http://eboursier.github.io/files/MLMDA_2019_11_26.pdf). <sub><sup><span style="color:grey">12-11-2019</span></sup></sub>
 * *Private Learning and Regularized Optimal Transport* got accepted at [Optimal Transport in Machine Learning NeurIPS workshop](https://sites.google.com/view/otml2019/). <sub><sup><span style="color:grey">02-10-2019</span></sup></sub>
-* *SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits* got accepted at [NeurIPS 2019](https://neurips.cc/) (spotlight)! <sub><sup><span style="color:grey">04-09-2019</span></sup></sub>
-* Invited to present a short talk about *Private Learning and Regularized Optimal Transport* at [StatMathAppli 2019](https://statmathappli.mia.inra.fr/). <sub><sup><span style="color:grey">11-07-2019</span></sup></sub>
+* *SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits* got accepted at [NeurIPS 2019](https://neurips.cc/) (spotlight). <sub><sup><span style="color:grey">04-09-2019</span></sup></sub>
+* Invited to give a short talk about *Private Learning and Regularized Optimal Transport* at [StatMathAppli 2019](https://statmathappli.mia.inra.fr/). <sub><sup><span style="color:grey">11-07-2019</span></sup></sub>
