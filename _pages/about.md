@@ -13,7 +13,7 @@ I am a PhD student at ENS Paris-Saclay since September 2018 under the supervisio
 Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
 
 ## News
-* *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
+* *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
 * Due to COVID-19, my visit to LUISS university is currently suspended. <sub><sup><span style="color:grey">13-03-2020</span></sup></sub>
 * I will be visiting [LUISS](https://www.luiss.edu/) university at Rome for a month, starting mid-April. I will be especially working with [Marco Scarsini](http://docenti.luiss.it/scarsini/) on Social Learning, as well as giving a [talk](https://economiaefinanza.luiss.it/seminar/2020/02/10/multi-player-multi-armed-bandits-diversified-problem) on Multiplayer bandits, April 23rd. <sub><sup><span style="color:grey">20-02-2020</span></sup></sub>
 * *Utility/Privacy Trade-off through the lens of Optimal Transport* and *A Practical Algorithm for Multiplayer Bandits when Arm Means Vary Among Players* both got accepted at [AISTATS2020](https://www.aistats.org/). <sub><sup><span style="color:grey">07-01-2020</span></sup></sub>
