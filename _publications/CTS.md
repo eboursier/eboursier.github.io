@@ -6,5 +6,5 @@ permalink: /publication/CTS
 date: 2020-06-12
 excerpt: ''
 pubtype: 'preprint'
-author: 'P.Perrault, E. Boursier, V. Perchet and M. Valko'
+author: 'P. Perrault, E. Boursier, V. Perchet and M. Valko'
 ---
