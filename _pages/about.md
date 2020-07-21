@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at ENS Paris-Saclay since September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/). My PhD title is "Statistical Learning in a strategical environment". I am interested in Learning Theory and Game Theory. Especially, my current topics of research are Multiplayer Multi-Armed bandits, utility/privacy trade-off using optimal transport and social learning.
 
-Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
+Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
 ## News
 * *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
