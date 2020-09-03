@@ -8,7 +8,7 @@ date: 2019-06-06
 excerpt: ''
 pubtype: 'conference'
 venue: 'AISTATS 2020'
-author: 'E. Boursier, E. Kaufmann, A. Mehrabian, V. Perchet'
+author: 'E. Boursier, E. Kaufmann, A. Mehrabian and V. Perchet'
 ---
 We study a multiplayer stochastic multi-armed bandit problem in which players cannot communicate, and if two or more players pull the same arm, a collision occurs and the involved players receive zero reward. 
 We consider the challenging heterogeneous setting, in which different arms may have different means for different players, and propose a new, efficient algorithm that combines the idea of leveraging forced collisions for implicit communication and that of performing matching eliminations. We give a finite-time analysis of our algorithm, bounding its regret by $O((\log T)^{1+\kappa})$ for any fixed $\kappa>0$. 
