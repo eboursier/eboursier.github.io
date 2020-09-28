@@ -15,6 +15,7 @@ Before this, I got an engineering degree from Ecole Polytechnique and a Master i
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
 ## News
+* *Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits* accepted at [NeurIPS2020](https://neurips.cc/). <sub><sup><span style="color:grey">28-09-2020</span></sup></sub>
 * *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
 * Due to COVID-19, my visit to LUISS university is currently suspended. (reported to next year) <sub><sup><span style="color:grey">13-03-2020</span></sup></sub>
 * I will be visiting [LUISS](https://www.luiss.edu/) university at Rome for a month, starting mid-April. I will be especially working with [Marco Scarsini](http://docenti.luiss.it/scarsini/) on Social Learning, as well as giving a [talk](https://economiaefinanza.luiss.it/seminar/2020/02/10/multi-player-multi-armed-bandits-diversified-problem) on Multiplayer bandits, April 23rd. <sub><sup><span style="color:grey">20-02-2020</span></sup></sub>
