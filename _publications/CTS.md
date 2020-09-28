@@ -5,6 +5,7 @@ link: https://arxiv.org/abs/2006.06613
 permalink: /publication/CTS
 date: 2020-06-12
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
+venue: 'NeurIPS 2020'
 author: 'P. Perrault, E. Boursier, V. Perchet and M. Valko'
 ---
