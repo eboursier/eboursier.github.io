@@ -14,6 +14,8 @@ Before this, I got an engineering degree from Ecole Polytechnique and a Master i
 
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
+Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
+
 ## News
 * *Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits* accepted at [NeurIPS2020](https://neurips.cc/). <sub><sup><span style="color:grey">28-09-2020</span></sup></sub>
 * *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
