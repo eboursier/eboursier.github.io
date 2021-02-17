@@ -1,5 +1,5 @@
 ---
-title: "Speed of Social Learning from Reviews in Non-Stationary Environments"
+title: "Social Learning from Reviews in Non-Stationary Environments"
 collection: publications
 link: https://arxiv.org/abs/2007.09996
 permalink: /publication/dynamical_social_learning
