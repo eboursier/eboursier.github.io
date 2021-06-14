@@ -12,6 +12,8 @@ I am a PhD student at ENS Paris-Saclay since September 2018 under the supervisio
 
 Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
 
+I will be starting a postdoc in the Theory of Machine Learning Lab at EPFL with Nicolas Flammarion in October 2021. I will focus on optimization for neural networks.
+
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
