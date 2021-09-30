@@ -5,6 +5,7 @@ link: https://arxiv.org/abs/2102.08087
 permalink: /publication/uber_paper
 date: 2021-02-17
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
+venue: 'NeurIPS 2021'
 author: 'E. Boursier, T.Garrec, V. Perchet and M. Scarsini'
 ---
