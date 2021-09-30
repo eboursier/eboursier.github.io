@@ -19,7 +19,7 @@ Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/bour
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
 
 ## News
-* Two papers got accepted at [NeurIPS2021](https://neurips.cc/): *Decentralized Learning in Online Queuing Systems * as a spotlight and *Making the most of your day: online learning for optimal allocation of time* as a poster. <sub><sup><span style="color:grey">28-09-2021</span></sup></sub>
+* Two papers accepted at [NeurIPS2021](https://neurips.cc/): *Decentralized Learning in Online Queuing Systems * as a spotlight and *Making the most of your day: online learning for optimal allocation of time* as a poster. <sub><sup><span style="color:grey">28-09-2021</span></sup></sub>
 * *Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits* accepted at [NeurIPS2020](https://neurips.cc/). <sub><sup><span style="color:grey">28-09-2020</span></sup></sub>
 * *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
 * Due to COVID-19, my visit to LUISS university is currently suspended. (reported to next year) <sub><sup><span style="color:grey">13-03-2020</span></sup></sub>
