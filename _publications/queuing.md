@@ -5,6 +5,7 @@ link: https://arxiv.org/abs/2106.04228
 permalink: /publication/queuing
 date: 2021-06-14
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
+venue: 'NeurIPS 2021 (spotlight)'
 author: 'F.Sentenac*, E. Boursier* and V. Perchet'
 ---
