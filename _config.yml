@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home" # Etienne Boursier
 title_separator          : "-"
 name                     : &name "Etienne Boursier"
-description              : &description "PhD Student"
+description              : &description "Postdoc"
 url                      : https://eboursier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eboursier.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Etienne Boursier"
   avatar           : "profile.jpg"
-  bio              : "PhD Student"
-  location         : "ENS Paris-Saclay, Cachan, France"
+  bio              : "Postdoc"
+  location         : "INJ 333, EPFL, Lausanne, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=-9todDUAAAAJ&hl=fr"
-  email            : "eboursie(at)ens-paris-saclay.fr"
+  email            : "etienne.boursier(at)epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
