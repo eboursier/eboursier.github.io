@@ -10,7 +10,7 @@ redirect_from:
 
 Since October 2021, I am a postdoc in the [Theory of Machine Learning Lab](https://www.epfl.ch/labs/tml/) at EPFL with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion). I am currently focusing on multitask learning and also trying to provide some theoretical insights on the empirical success of neural networks.
 
-Before that, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/), entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits, but I also worked on Utility/Privacy trade-off using Optimal Transport, Social Learning and other bandits related problems.
+Before that, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)and entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits, but I also worked on other bandits related problems, Social Learning and Utility/Privacy trade-off.
 
 Prior to my PhD, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
 
