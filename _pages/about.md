@@ -8,24 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at ENS Paris-Saclay since September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/). My PhD title is "Statistical Learning in a strategical environment". I am interested in Learning Theory and Game Theory. Especially, my current topics of research are Multiplayer Multi-Armed bandits, Utility/Privacy trade-off using Optimal Transport and Social Learning.
+Since October 2021, I am a postdoc in the Theory of Machine Learning Lab at EPFL with Nicolas Flammarion. I am currently focusing on multitask learning and also trying to provide some insights on the empirical success of neural networks.
 
-Before this, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
+Before that, I completed a PhD ENS Paris-Saclay since September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/), entitled "Statistical Learning in a strategical environment". I studied multi agent learning, combining (Online) Learning with Game Theory. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits, but I also worked on Utility/Privacy trade-off using Optimal Transport, Social Learning and other bandits related problems.
 
-I will be starting a postdoc in the Theory of Machine Learning Lab at EPFL with Nicolas Flammarion in October 2021. I will focus on optimization for neural networks.
+Prior to my PhD I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
 
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
 
 ## News
+* I successfully defended my PhD thesis at ENS Paris-Saclay! see [slides](http://eboursier.github.io/files/2021-09-30-phd_defense.pdf) and [manuscript](https://tel.archives-ouvertes.fr/tel-03371210) <sub><sup><span style="color:grey">30-09-2021</span></sup></sub>
 * Two papers accepted at [NeurIPS2021](https://neurips.cc/): *Decentralized Learning in Online Queuing Systems* as a spotlight and *Making the most of your day: online learning for optimal allocation of time* as a poster. <sub><sup><span style="color:grey">28-09-2021</span></sup></sub>
 * *Statistical Efficiency of Thompson Sampling for Combinatorial Semi-Bandits* accepted at [NeurIPS2020](https://neurips.cc/). <sub><sup><span style="color:grey">28-09-2020</span></sup></sub>
 * *Selfish Robustness and Equilibria in Multi-Player Bandits* got accepted at [COLT2020](http://learningtheory.org/colt2020/). The conference will be held online. <sub><sup><span style="color:grey">26-05-2020</span></sup></sub>
-* Due to COVID-19, my visit to LUISS university is currently suspended. (reported to next year) <sub><sup><span style="color:grey">13-03-2020</span></sup></sub>
+* Due to COVID-19, my visit to LUISS university is currently suspended. <sub><sup><span style="color:grey">13-03-2020</span></sup></sub>
 * I will be visiting [LUISS](https://www.luiss.edu/) university at Rome for a month, starting mid-April. I will be especially working with [Marco Scarsini](http://docenti.luiss.it/scarsini/) on Social Learning, as well as giving a [talk](https://economiaefinanza.luiss.it/seminar/2020/02/10/multi-player-multi-armed-bandits-diversified-problem) on Multiplayer bandits, April 23rd. <sub><sup><span style="color:grey">20-02-2020</span></sup></sub>
 * *Utility/Privacy Trade-off through the lens of Optimal Transport* and *A Practical Algorithm for Multiplayer Bandits when Arm Means Vary Among Players* both got accepted at [AISTATS2020](https://www.aistats.org/). <sub><sup><span style="color:grey">07-01-2020</span></sup></sub>
-* I will be presenting *SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits* at ENS Paris-Saclay, November 26th. Slides [here](http://eboursier.github.io/files/MLMDA_2019_11_26.pdf). <sub><sup><span style="color:grey">12-11-2019</span></sup></sub>
-* *Private Learning and Regularized Optimal Transport* got accepted at [Optimal Transport in Machine Learning NeurIPS workshop](https://sites.google.com/view/otml2019/). <sub><sup><span style="color:grey">02-10-2019</span></sup></sub>
-* *SIC-MMAB: Synchronisation Involves Communication in Multiplayer Multi-Armed Bandits* got accepted at [NeurIPS 2019](https://neurips.cc/) (spotlight). <sub><sup><span style="color:grey">04-09-2019</span></sup></sub>
-<!-- * Invited to give a short talk about *Private Learning and Regularized Optimal Transport* at [StatMathAppli 2019](https://statmathappli.mia.inra.fr/). <sub><sup><span style="color:grey">11-07-2019</span></sup></sub> -->
