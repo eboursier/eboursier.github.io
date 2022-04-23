@@ -17,4 +17,14 @@ author_profile: true
       {% include archive-single.html %} 
     {% endif %}
   {% endfor %}
+  
+  
+<h2>Journals</h2>
+  {% for post in site.publications reversed %} 
+    {% if post.pubtype == 'journal' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
+
+
 
