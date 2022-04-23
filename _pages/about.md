@@ -19,7 +19,7 @@ Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/bour
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
 
 ## News
-* *Utility/Privacy Trade-off as Regularized Optimal Transport* got accepted for publication at Mathematical Programming. It is an extended version of our work presented at AISTATS 2020. <sub><sup><span style="color:grey">17-03-2022</span></sup></sub>
+* *Utility/Privacy Trade-off as Regularized Optimal Transport* got accepted for publication at Mathematical Programming. It is an extended version of our work presented at AISTATS 2020. Paper available [here](https://trebuchet.public.springernature.app/get_content/427215fe-8c09-4279-a8b7-fa6d1cb8725d). <sub><sup><span style="color:grey">17-03-2022</span></sup></sub>
 * One paper accepted at [ALT 2022](http://algorithmiclearningtheory.org/alt2022/): *Social Learning in Non-Stationary Environments*. <sub><sup><span style="color:grey">10-01-2022</span></sup></sub>
 * I successfully defended my PhD thesis at ENS Paris-Saclay! see [slides](http://eboursier.github.io/files/2021-09-30-phd_defense.pdf) and [manuscript](https://tel.archives-ouvertes.fr/tel-03371210) <sub><sup><span style="color:grey">30-09-2021</span></sup></sub>
 * Two papers accepted at [NeurIPS 2021](https://neurips.cc/): *Decentralized Learning in Online Queuing Systems* as a spotlight and *Making the most of your day: online learning for optimal allocation of time* as a poster. <sub><sup><span style="color:grey">28-09-2021</span></sup></sub>
