@@ -5,6 +5,7 @@ link: https://arxiv.org/abs/2206.00939
 permalink: /publication/GFdynamics_ortho
 date: 2022-06-03
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
+venue: 'NeurIPS 2022'
 author: 'E. Boursier, L. Pillaud-Vivien and N. Flammarion'
 ---
