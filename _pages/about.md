@@ -21,6 +21,7 @@ Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/bour
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
 
 ## News
+* I was awarded the [2022 PGMO thesis prize](https://www.fondation-hadamard.fr/en/fmjh-supports/research/pgmohome/phd-awards/)! I will present my PhD work after the PhD award ceremony, during the [PGMO days]([https://www.fondation-hadamard.fr/fr/la-fmjh-soutient/recherche/home/pgmo-days/](https://www.fondation-hadamard.fr/en/fmjh-supports/research/pgmohome/pgmodays/) on November 29th. <sub><sup><span style="color:grey">05-10-2022</span></sup></sub>
 * *Gradient flow dynamics of shallow ReLU networks for square loss and orthogonal inputs* accepted at [NeurIPS 2022](https://neurips.cc/). <sub><sup><span style="color:grey">16-09-2022</span></sup></sub>
 * I will be giving a 20 min talk at [Learning and Optimization in Luminy](https://conferences.cirm-math.fr/2551.html) on our paper *Gradient flow dynamics of shallow ReLU networks for square loss and orthogonal inputs*. <sub><sup><span style="color:grey">16-09-2022</span></sup></sub>
 * I gave a 20 min presentation of *Gradient flow dynamics of shallow ReLU networks for square loss and orthogonal inputs* at EPFL-CIS & RIKEN-AIP Joint Workshop on Machine Learning (video and slides to come on the [website](https://www.epfl.ch/research/domains/cis/riken-epfl-workshop-2022/)). <sub><sup><span style="color:grey">16-09-2022</span></sup></sub>
