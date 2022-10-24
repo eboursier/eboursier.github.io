@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#<h2>Preprints</h2>
+# <h2>Preprints</h2>
 
   {% for post in site.publications reversed %} 
     {% if post.pubtype == 'preprint' %} 
