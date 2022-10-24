@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" # Etienne Boursier
+title                    : "Etienne Boursier"
 title_separator          : "-"
 name                     : &name "Etienne Boursier"
 description              : &description "Postdoc"
