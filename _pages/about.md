@@ -10,7 +10,7 @@ redirect_from:
 
 Since October 2021, I am a postdoc in the [Theory of Machine Learning Lab](https://www.epfl.ch/labs/tml/) at EPFL with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion). I am currently focusing on multitask/meta-learning and also trying to provide theoretical insights on the empirical success of neural networks.
 
-Starting April 1st 2023, I will be a researcher in the [CELESTE](https://www.inria.fr/en/celeste) team of [INRIA Paris-Saclay](https://www.inria.fr/en/inria-saclay-centre), located in the [Laboratoire Mathématique d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). There, I will mostly continue my different works on decentralised online learning, meta-learning and the theoretical understanding of neural networks.
+Starting April 1st 2023, I will be a researcher in the [CELESTE](https://www.inria.fr/en/celeste) team of [INRIA Paris-Saclay](https://www.inria.fr/en/inria-saclay-centre), located in the [Laboratoire Mathématique d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). There, I will mostly continue my different works on decentralised (online) learning, meta-learning and the theoretical understanding of neural networks. 
 
 Before that, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/) and entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits, but I also worked on other bandits related problems, Social Learning and Utility/Privacy trade-off.
 
