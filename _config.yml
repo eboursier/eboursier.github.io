@@ -11,7 +11,7 @@ title                    : "Etienne Boursier"
 home                     : "About me"
 title_separator          : "-"
 name                     : &name "Etienne Boursier"
-description              : &description "Postdoc"
+description              : &description "Researcher"
 url                      : https://eboursier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eboursier.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Etienne Boursier"
   avatar           : "profile.png"
-  bio              : "Postdoc @ EPFL"
-  location         : "INJ 332, EPFL, Lausanne"
+  bio              : "Researcher @ INRIA"
+  location         : "3E1, Institut de Mathématique, Orsay"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=-9todDUAAAAJ&hl=fr"
-  email            : "etienne.boursier(at)epfl.ch"
+  email            : "etienne.boursier(at)inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
