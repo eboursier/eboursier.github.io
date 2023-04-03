@@ -14,8 +14,6 @@ Before that, I was a postdoc in the [Theory of Machine Learning Lab](https://www
 
 In 2021, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/) and entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits, but I also worked on other bandits related problems, Social Learning and Utility/Privacy trade-off.
 
-Prior to my PhD, I got an engineering degree from Ecole Polytechnique and a Master in Machine Learning and Computer Vision (MVA) at ENS Paris-Saclay. 
-
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
