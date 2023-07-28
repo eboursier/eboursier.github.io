@@ -1,5 +1,5 @@
 ---
-title: "Model agnostic methods meta-learn despite misspecifications"
+title: "First-order ANIL learns linear representations despite misspecified latent dimension"
 collection: publications
 link: https://arxiv.org/abs/2303.01335
 permalink: /publication/ANIL
