@@ -5,7 +5,7 @@ type: "M2"
 permalink: /teaching/2023-sequential
 venue: "Université Paris-Saclay"
 startdate: 2023
-enddate: --
+enddate: ongoing
 location: "Orsay, France"
 ---
 
