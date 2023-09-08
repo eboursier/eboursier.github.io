@@ -2,7 +2,7 @@
 title: "Sequential Learning"
 collection: teaching
 type: "M2"
-permalink: /teaching/2023-sequential
+permalink: /teaching/sequential
 venue: "Université Paris-Saclay"
 startdate: 2023
 enddate: ongoing
