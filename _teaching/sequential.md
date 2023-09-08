@@ -31,7 +31,9 @@ To come...
 
 ## Bibliographic Resources
 
-To come...
+- [Prediction, learning, and games](https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf), Nicolò Cesa-Bianchi and Gábor Lugosi. Cambridge University Press, 2006
+- [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](https://arxiv.org/abs/1204.5721), Sebastien Bubeck and Nicolò Cesa-Bianchi. In Foundations and Trends in Machine Learning, 2012.
+- [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf), Tor Lattimore and Csaba Szepesvári. Cambridge University Press, 2020.
 
 
 
