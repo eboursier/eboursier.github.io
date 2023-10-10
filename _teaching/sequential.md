@@ -29,7 +29,7 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 21/1
 
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf)
 - [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf)
--  [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf)
+- [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf)
 
 ## Bibliographic Resources
 
