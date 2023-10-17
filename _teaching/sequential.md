@@ -13,7 +13,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire - ProbaSt
 
 ## Course Organization (year 2023)
 
-${\textsf{\color{red}Change: there won't be class on November 21st, the class will happen on December 4th instead.}}$
+${\color{red}\textsf{Change: there won't be class on November 21st, the class will happen on December 4th instead.}}$
 
 9x2h lectures on Tuesday at 2pm.    
 6x1h30 exercise sessions after the lecture.
