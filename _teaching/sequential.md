@@ -13,13 +13,16 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire - ProbaSt
 
 ## Course Organization (year 2023)
 
+> [!WARNING]  
+> **Change:** there won't be class on November 21st, the class will happen on December 4th instead.
+
 9x2h lectures on Tuesday at 2pm.    
 6x1h30 exercise sessions after the lecture.
 
 **Location:** Institut Mathématique d'Orsay, room 1A11 
 
-Lectures happen on every Tuesday from 26th September 2023 to 28th November 2023, **except on 31st October (holidays)**.    
-Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 21/11, 28/11.
+Lectures happen on every Tuesday from 26th September 2023 to 4th December 2023, **except on 31st October (holidays) and 21/11**.    
+Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/11, 04/12.
 
 ## Course Evaluation
 - 1 homework
@@ -31,6 +34,7 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 21/1
 - [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf)
 - [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf) 
 - [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
+- [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
 
 ## Bibliographic Resources
 
