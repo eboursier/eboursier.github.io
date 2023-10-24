@@ -27,13 +27,15 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/1
 - 1 homework
 - 1 final written exam
 
+The [homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). The deadline to send me the completed homework (by email) is *Wednesday, November 15 at 6 pm*. It can be written in either English or French.
+
 ## Lecture Notes
 
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
 - [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf)
 - [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf) 
 - [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
-- [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
+- [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
 
 ## Bibliographic Resources
 
