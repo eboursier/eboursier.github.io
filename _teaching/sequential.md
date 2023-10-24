@@ -27,7 +27,7 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/1
 - 1 homework
 - 1 final written exam
 
-The [homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). The deadline to send me the completed homework (by email) is *Wednesday, November 15 at 6 pm*. It can be written in either English or French.
+The [homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). The deadline to send me the completed homework (by email) is **Wednesday, November 15 at 6 pm**. It can be written in either English or French.
 
 ## Lecture Notes
 
