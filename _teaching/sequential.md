@@ -20,8 +20,8 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire - ProbaSt
 
 **Location:** Institut Mathématique d'Orsay, room 1A11 
 
-Lectures happen on every Tuesday from 26th September 2023 to 4th December 2023, **except on 31st October (holidays) and 21/11**.    
-Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/11, 04/12.
+Lectures happen on every Tuesday from 26th September 2023 to 5th December 2023, **except on 31st October (holidays) and 21/11**.    
+Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/11, 05/12.
 
 ## Course Evaluation
 - 1 homework
