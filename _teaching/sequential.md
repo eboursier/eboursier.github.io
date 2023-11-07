@@ -13,7 +13,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire - ProbaSt
 
 ## Course Organization (year 2023)
 
-> **Warning: there won't be class on November 21st, the class will happen on December 4th instead.**
+> **Warning: there won't be class on November 21st, the class will happen on December 5th instead.**
 
 9x2h lectures on Tuesday at 2pm.    
 6x1h30 exercise sessions after the lecture.
@@ -36,6 +36,7 @@ The [homework is available here](https://eboursier.github.io/files/sequential_co
 - [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf) 
 - [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
 - [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
+- [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf)
 
 ## Bibliographic Resources
 
