@@ -37,6 +37,7 @@ The [homework is available here](https://eboursier.github.io/files/sequential_co
 - [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
 - [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
 - [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf)
+- [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (MOSS and continuum of arms)
 
 ## Bibliographic Resources
 
