@@ -1,7 +1,7 @@
 ---
 title: "Sequential Learning"
 collection: teaching
-type: "M2"
+type: "M2 Mathématique de l'Aléatoire & Mathématiques et Intelligence Artificielle"
 permalink: /teaching/sequential
 venue: "Université Paris-Saclay"
 startdate: 2023
