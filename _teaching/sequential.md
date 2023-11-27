@@ -9,11 +9,11 @@ enddate: ongoing
 location: "Orsay, France"
 ---
 
-Sequential Learning course for Master 2 Mathématiques de l'Aléatoire - ProbaStats.
+Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Course Organization (year 2023)
 
-> **Warning: there won't be class on November 21st, the class will happen on December 5th instead.**
+> **Info on final exam:** the final exam will be 3 hours long. The course material is authorised during the exam.
 
 9x2h lectures on Tuesday at 2pm.    
 6x1h30 exercise sessions after the lecture.
@@ -25,9 +25,7 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/1
 
 ## Course Evaluation
 - 1 homework
-- 1 final written exam
-
-The [homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). The deadline to send me the completed homework (by email) is **Sunday, November 19 at 6 pm**. It can be written in either English or French.
+- 1 final written exam on December 19th
 
 ## Lecture Notes
 
@@ -38,11 +36,14 @@ The [homework is available here](https://eboursier.github.io/files/sequential_co
 - [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
 - [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf)
 - [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (MOSS and continuum of arms)
+- [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (contextual, linear bandits) + [Exercise session 5](https://eboursier.github.io/files/sequential_course/exercise_session_5.pdf)
+
+## Additional material
+
+[Homework 2023](https://eboursier.github.io/files/sequential_course/homework.pdf)
 
 ## Bibliographic Resources
 
-- [Prediction, learning, and games](https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf), Nicolò Cesa-Bianchi and Gábor Lugosi. Cambridge University Press, 2006
-- [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](https://arxiv.org/abs/1204.5721), Sebastien Bubeck and Nicolò Cesa-Bianchi. In Foundations and Trends in Machine Learning, 2012.
 - [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf), Tor Lattimore and Csaba Szepesvári. Cambridge University Press, 2020.
 - [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272), Aleksandrs Slivkins. In Foundations and Trends in Machine Learning, 2019.
 
