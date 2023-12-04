@@ -37,7 +37,7 @@ Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/1
 - [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf)
 - [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (MOSS and continuum of arms)
 - [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (contextual, linear bandits) + [Exercise session 5](https://eboursier.github.io/files/sequential_course/exercise_session_5.pdf)
-- - [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_9.pdf) (pure exploration, BAI) + [Exercise session 6](https://eboursier.github.io/files/sequential_course/exercise_session_6.pdf)
+- [Lecture 9](https://eboursier.github.io/files/sequential_course/lecture_9.pdf) (pure exploration, BAI) + [Exercise session 6](https://eboursier.github.io/files/sequential_course/exercise_session_6.pdf)
 
 ## Additional material
 
