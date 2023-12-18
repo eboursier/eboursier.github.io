@@ -13,7 +13,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Course Organization (year 2023)
 
-> **Info on final exam:** the final exam will be 3 hours long and will happen in Room 0A1. The course material is authorised during the exam.
+> **Info on final exam:** the final exam will be 3 hours long, starting at 2pm, and will happen in Room 0A1. The course material is authorised during the exam.
 
 9x2h lectures on Tuesday at 2pm.    
 6x1h30 exercise sessions after the lecture.
