@@ -11,21 +11,9 @@ location: "Orsay, France"
 
 Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
-## Course Organization (year 2023)
-
-> **Info on final exam:** the final exam will be 3 hours long, starting at 2pm, and will happen in Room 0A1. The course material is authorised during the exam.
-
-9x2h lectures on Tuesday at 2pm.    
-6x1h30 exercise sessions after the lecture.
-
-**Location:** Institut Mathématique d'Orsay, room 1A11 
-
-Lectures happen on every Tuesday from 26th September 2023 to 5th December 2023, **except on 31st October (holidays) and 21/11**.    
-Exercise sessions happen on following Tuesdays: 03/10, 10/10, 24/10, 07/11, 28/11, 05/12.
-
 ## Course Evaluation
 - 1 homework
-- 1 final written exam on December 19th, room 0A1
+- 1 final written exam
 
 ## Lecture Notes
 
