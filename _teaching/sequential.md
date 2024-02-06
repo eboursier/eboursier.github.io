@@ -1,5 +1,5 @@
 ---
-title: "Sequential Learning"
+title: "Sequential Learning (Orsay)"
 collection: teaching
 type: "M2 Mathématique de l'Aléatoire & Mathématiques et Intelligence Artificielle"
 permalink: /teaching/sequential
