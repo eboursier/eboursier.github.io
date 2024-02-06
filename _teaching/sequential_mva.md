@@ -1,5 +1,5 @@
 ---
-title: "Sequential Learning"
+title: "Sequential Learning (MVA)"
 collection: teaching
 type: "M2 Mathématique Vision Apprentissage"
 permalink: teaching/sequential_mva
