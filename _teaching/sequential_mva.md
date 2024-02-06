@@ -2,11 +2,11 @@
 title: "Sequential Learning"
 collection: teaching
 type: "M2 Mathématique Vision Apprentissage"
-permalink: https://sequential-learning.github.io
+permalink: teaching/sequential_mva
 link: https://sequential-learning.github.io
 venue: "Université Paris-Saclay"
 startdate: 2024
-enddate: 
+enddate: 2024
 location: "Gif-sur-Yvette, France"
 ---
 
