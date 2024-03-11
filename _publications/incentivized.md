@@ -1,7 +1,7 @@
 ---
 title: "Incentivized Learning in Principal-Agent Bandit Games"
 collection: publications
-link: https://hal.science/hal-04479761
+link: https://arxiv.org/abs/2403.03811
 permalink: /publication/incentivized
 date: 2024-03-03
 excerpt: ''
