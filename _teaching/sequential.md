@@ -29,7 +29,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Additional material
 
-[Homework 2023](https://eboursier.github.io/files/sequential_course/homework.pdf)
+[//]: # ([Homework 2023](https://eboursier.github.io/files/sequential_course/homework.pdf))
 
 ## Bibliographic Resources
 
