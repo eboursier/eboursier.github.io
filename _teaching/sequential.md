@@ -17,15 +17,15 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Lecture Notes
 
-- [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
-- [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf)
-- [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf) 
-- [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
-- [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf)
-- [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf)
-- [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (MOSS and continuum of arms)
-- [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (contextual, linear bandits) + [Exercise session 5](https://eboursier.github.io/files/sequential_course/exercise_session_5.pdf)
-- [Lecture 9](https://eboursier.github.io/files/sequential_course/lecture_9.pdf) (pure exploration, BAI) + [Exercise session 6](https://eboursier.github.io/files/sequential_course/exercise_session_6.pdf)
+[//]: # (- [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts))
+[//]: # (- [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf))
+[//]: # (- [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf)) 
+[//]: # (- [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2))
+[//]: # (- [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (some properties of the KL) + [Exercise session 3](https://eboursier.github.io/files/sequential_course/exercise_session_3.pdf))
+[//]: # (- [Lecture 6](https://eboursier.github.io/files/sequential_course/lecture_6.pdf) (lower bound) + [Exercise session 4](https://eboursier.github.io/files/sequential_course/exercise_session_4.pdf))
+[//]: # (- [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (MOSS and continuum of arms))
+[//]: # (- [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (contextual, linear bandits) + [Exercise session 5](https://eboursier.github.io/files/sequential_course/exercise_session_5.pdf))
+[//]: # (- [Lecture 9](https://eboursier.github.io/files/sequential_course/lecture_9.pdf) (pure exploration, BAI) + [Exercise session 6](https://eboursier.github.io/files/sequential_course/exercise_session_6.pdf))
 
 ## Additional material
 
