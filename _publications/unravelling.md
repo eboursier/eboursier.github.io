@@ -1,7 +1,7 @@
 ---
 title: "Unravelling in Collaborative Learning"
 collection: publications
-link: https://arxiv.org/abs/2406.19824
+link: https://arxiv.org/abs/2407.14332
 permalink: /publication/Coase
 date: 2024-07-19
 excerpt: ''
