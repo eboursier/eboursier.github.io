@@ -14,7 +14,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 ## Year 2024-2025
 
 > [!WARNING]
-> The **first** course will be given on Tuesday, October 1st, 2pm-5pm in room 1A14.
+> <code style="color : red"> The **first** course will be given on Tuesday, **October 1st**, 2pm-5pm in room 1A14.</code>
 
 
 ## Course Evaluation
