@@ -13,7 +13,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Year 2024-2025
 
-The first course will be given on Tuesday, October 1st, 2pm-5pm in room <code style="color : red">1A11</code>.
+Courses are every Tuesday, October 1st, 2pm-5pm in room 1A11.
 
 
 ## Course Evaluation
@@ -22,7 +22,7 @@ The first course will be given on Tuesday, October 1st, 2pm-5pm in room <code st
 
 ## Lecture Notes
 
-[//]: # (- [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts))
+- [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
 [//]: # (- [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf))
 [//]: # (- [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf)) 
 [//]: # (- [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2))
@@ -32,7 +32,7 @@ The first course will be given on Tuesday, October 1st, 2pm-5pm in room <code st
 [//]: # (- [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (contextual, linear bandits) + [Exercise session 5](https://eboursier.github.io/files/sequential_course/exercise_session_5.pdf))
 [//]: # (- [Lecture 9](https://eboursier.github.io/files/sequential_course/lecture_9.pdf) (pure exploration, BAI) + [Exercise session 6](https://eboursier.github.io/files/sequential_course/exercise_session_6.pdf))
 
-## Additional material
+[//]: # (## Additional material)
 
 [//]: # ([Homework 2023](https://eboursier.github.io/files/sequential_course/homework.pdf))
 
