@@ -23,6 +23,7 @@ Courses are every Tuesday, October 1st, 2pm-5pm in room 1A11.
 ## Lecture Notes
 
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
+- 
 [//]: # (- [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities) + [Exercise session 1](https://eboursier.github.io/files/sequential_course/exercise_session_1.pdf))
 [//]: # (- [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1) + [Exercise session 2](https://eboursier.github.io/files/sequential_course/exercise_session_2.pdf)) 
 [//]: # (- [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2))
