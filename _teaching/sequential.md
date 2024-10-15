@@ -21,7 +21,9 @@ Courses are every Tuesday, 2pm-5pm in room 1A11.
 
 ## Course Evaluation
 - 1 homework
-- 1 final written exam. $$\text{\color{red}Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.}$$
+- 1 final written exam. 
+
+$\text{\color{red}Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.}$
 
 ## Lecture Notes
 
