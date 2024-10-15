@@ -14,13 +14,14 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 ## Year 2024-2025
 
 Courses are every Tuesday, 2pm-5pm in room 1A11.
+
 **Note:** there is no course on October 29 and November 19.
 
 
 
 ## Course Evaluation
 - 1 homework
-- 1 final written exam
+- 1 final written exam. $$\text{\color{red}Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.}$$
 
 ## Lecture Notes
 
