@@ -23,7 +23,7 @@ Courses are every Tuesday, 2pm-5pm in room 1A11.
 - 1 homework
 - 1 final written exam. 
 
-$\text{\color{red}Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.}$
+<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.</code>
 
 ## Lecture Notes
 
