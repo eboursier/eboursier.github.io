@@ -31,6 +31,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A11.
 - [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities)
 - [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1)
 
+- [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4)
+
 
 ## Previous years material
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/archives/lecture_1.pdf) (learning with experts)
