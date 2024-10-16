@@ -1,6 +1,6 @@
 ---
 title: "Sequential Learning (MVA)"
-collection: teaching
+collection: 
 type: "M2 Mathématique Vision Apprentissage"
 permalink: teaching/sequential_mva
 link: https://sequential-learning.github.io
