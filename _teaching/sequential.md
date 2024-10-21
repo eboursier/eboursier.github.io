@@ -25,6 +25,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A11.
 
 <code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam.</code>
 
+The [homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf) and is due for November 13, 6pm.
+
 ## Lecture Notes
 
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
