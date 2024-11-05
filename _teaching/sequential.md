@@ -33,8 +33,10 @@ The [homework is available here](https://eboursier.github.io/files/sequential_co
 - [Lecture 2](https://eboursier.github.io/files/sequential_course/lecture_2.pdf) (concentration inequalities)
 - [Lecture 3](https://eboursier.github.io/files/sequential_course/lecture_3.pdf) (stochastic bandits, part 1)
 - [Lecture 4](https://eboursier.github.io/files/sequential_course/lecture_4.pdf) (stochastic bandits, part 2)
+- [Lecture 5](https://eboursier.github.io/files/sequential_course/lecture_5.pdf) (lower bound)
 
 - [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4)
+- [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8)
 
 
 ## Previous years material
