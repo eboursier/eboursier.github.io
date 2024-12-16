@@ -18,8 +18,8 @@ Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/bour
 
 Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
 
-## News
-* I was invited to the [Symposium on Sparsity and Singular Structures](https://sfb1481.rwth-aachen.de/symposium24) in Aachen to talk about our latest work [Early alignment in two-layer networks training is a two-edged sword](https://arxiv.org/abs/2401.10791). You can have a look at the slides [here](https://eboursier.github.io/files/aachen_slides/index.html#0).  <sub><sup><span style="color:grey">28-02-2024</span></sup></sub>
-* I am invited at CIRM for [From matching to markets workshop](https://conferences.cirm-math.fr/2879.html). I will be giving a review of multiplayer bandits. <sub><sup><span style="color:grey">01-12-2023</span></sup></sub>
-* I will be giving a 1h30 lecture on Gradient flow dynamics of shallow ReLU networks at the [Analytical Approaches ​for Neural Network Dynamics workshop](https://dynnnparis.weebly.com). This will happen at Institut Henri Poincaré, on October 23rd. <sub><sup><span style="color:grey">01-10-2023</span></sup></sub>
-* I started a permanent position at INRIA Saclay in the CELESTE team, located at Orsay. If you are interested in a potential internship, PhD, postdoc or even just a collaboration/visiting, do not hesitate to reach out to me! <sub><sup><span style="color:grey">01-04-2023</span></sup></sub>
+[//]: ## News
+[//]: * I was invited to the [Symposium on Sparsity and Singular Structures](https://sfb1481.rwth-aachen.de/symposium24) in Aachen to talk about our latest work [Early alignment in two-layer networks training is a two-edged sword](https://arxiv.org/abs/2401.10791). You can have a look at the slides [here](https://eboursier.github.io/files/aachen_slides/index.html#0).  <sub><sup><span style="color:grey">28-02-2024</span></sup></sub>
+[//]: * I am invited at CIRM for [From matching to markets workshop](https://conferences.cirm-math.fr/2879.html). I will be giving a review of multiplayer bandits. <sub><sup><span style="color:grey">01-12-2023</span></sup></sub>
+[//]: * I will be giving a 1h30 lecture on Gradient flow dynamics of shallow ReLU networks at the [Analytical Approaches ​for Neural Network Dynamics workshop](https://dynnnparis.weebly.com). This will happen at Institut Henri Poincaré, on October 23rd. <sub><sup><span style="color:grey">01-10-2023</span></sup></sub>
+[//]: * I started a permanent position at INRIA Saclay in the CELESTE team, located at Orsay. If you are interested in a potential internship, PhD, postdoc or even just a collaboration/visiting, do not hesitate to reach out to me! <sub><sup><span style="color:grey">01-04-2023</span></sup></sub>
