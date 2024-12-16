@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the [CELESTE](https://www.inria.fr/en/celeste) team of [INRIA Paris-Saclay](https://www.inria.fr/en/inria-saclay-centre), located in the [Laboratoire Mathématique d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). I am working on different aspects of the theory of machine learning, including decentralised (online) learning, meta-learning and the theoretical understanding of neural networks. 
+I am a researcher in the [CELESTE](https://www.inria.fr/en/celeste) team of [INRIA Paris-Saclay](https://www.inria.fr/en/inria-saclay-centre), located in the [Laboratoire Mathématique d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/). I am working on different aspects of the theory of machine learning, mostly focusing on the theoretical understanding of neural networks and relations between online learning and game theory.
 
 From October 2021 to March 2023, I was a postdoc in the [Theory of Machine Learning Lab](https://www.epfl.ch/labs/tml/) at EPFL with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion).
 
