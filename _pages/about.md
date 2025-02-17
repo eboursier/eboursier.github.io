@@ -12,7 +12,7 @@ I am a researcher in the [CELESTE](https://www.inria.fr/en/celeste) team of [INR
 
 From October 2021 to March 2023, I was a postdoc in the [Theory of Machine Learning Lab](https://www.epfl.ch/labs/tml/) at EPFL with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion).
 
-In 2021, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://sites.google.com/site/vianneyperchet/) and entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits.
+In 2021, I completed a PhD at ENS Paris-Saclay, started in September 2018 under the supervision of [Vianney Perchet](https://vianney.ai) and entitled "Statistical Learning in a strategical environment". I studied multi-agent learning, combining (online) learning with game theoretical tools. In particular, I mainly focused on the problem of Multiplayer Multi-armed bandits.
 
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
