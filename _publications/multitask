@@ -1,0 +1,12 @@
+---
+title: "Trace norm regularization for multi-task learning with scarce data"
+collection: publications
+link: https://arxiv.org/abs/2202.06742
+permalink: /publication/multitask
+date: 2022-02-14
+excerpt: ''
+pubtype: 'conference'
+category: 'multitask'
+venue: 'COLT 2022'
+author: 'E. Boursier, M. Konobeev and N. Flammarion'
+---
