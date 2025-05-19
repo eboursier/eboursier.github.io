@@ -5,7 +5,8 @@ link: https://arxiv.org/abs/2410.02348
 permalink: /publication/AIM
 date: 2024-10-03
 excerpt: ''
-pubtype: 'preprint'
+pubtype: 'conference'
 category: 'relu_networks'
+venue: 'ICML 2025'
 author: 'E. Boursier and N. Flammarion'
 ---
