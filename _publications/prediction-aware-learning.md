@@ -6,7 +6,7 @@ permalink: /publication/prediction-aware
 date: 2025-01-31
 excerpt: ''
 pubtype: 'conference'
-category: 'online_with_prediction'
+category: 'online'
 venue: 'ICML 2025'
 author: 'A. Capitaine, E. Boursier, E. Moulines, M. Jordan, A. Durmus'
 ---
