@@ -6,6 +6,6 @@ permalink: /publication/grokking
 date: 2025-05-26
 excerpt: ''
 pubtype: 'preprint'
-category: 'deep_theory'
+category: 'training_dynamics'
 author: 'E. Boursier, S. Pesme, R-A. Dragomir'
 ---
