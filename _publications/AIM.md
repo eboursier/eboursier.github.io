@@ -6,7 +6,7 @@ permalink: /publication/AIM
 date: 2023-10-09
 excerpt: ''
 pubtype: 'conference'
-category: 'bandit'
+category: 'online'
 venue: 'AISTATS 2025'
 author: 'A. Barbier-Chebbah, C.L. Vestergaard, J-B. Masson and E. Boursier'
 ---
