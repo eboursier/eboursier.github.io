@@ -7,7 +7,7 @@ permalink: /publication/sic-mmab
 date: 2018-09-21
 excerpt: ''
 pubtype: 'conference'
-category: 'multiplayer_bandit'
+category: 'multiagent'
 venue: 'NeurIPS 2019 (spotlight)'
 author: 'E. Boursier and V. Perchet'
 ---
