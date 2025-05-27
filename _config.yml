@@ -87,18 +87,16 @@ publication_pubtype:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  relu_networks:
-    title: 'Theory of ReLU Neural Networks'
+  training_dynamics:
+    title: 'Training Dynamics for Deep Learning'
+  landscape:
+    title: 'Optimization Landscape for Deep Learning'
   multitask:
     title: 'Meta/Multi-task learning'
-  online_with_prediction:
-    title: 'Online Learning with Predictions'
+  online:
+    title: 'Online Learning'
   multiagent:
     title: 'Multi-agent Learning'
-  multiplayer_bandit:
-    title: 'Multi-player Bandits'
-  bandit:
-    title: 'Bandit Theory'
   other:
     title: 'Others'
 
