@@ -8,5 +8,5 @@ excerpt: ''
 pubtype: 'journal'
 venue: 'Journal of Machine Learning Research'
 author: 'E. Boursier and V. Perchet'
-category: 'multiplayer_bandit'
+category: 'multiagent'
 ---
