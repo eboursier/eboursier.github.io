@@ -6,6 +6,6 @@ permalink: /publication/early_alignment
 date: 2024-01-19
 excerpt: ''
 pubtype: 'preprint'
-category: 'relu_networks'
+category: 'training_dynamics'
 author: 'E. Boursier and N. Flammarion'
 ---
