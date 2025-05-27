@@ -6,7 +6,7 @@ permalink: /publication/GFdynamics_ortho
 date: 2022-06-03
 excerpt: ''
 pubtype: 'conference'
-category: 'relu_networks'
+category: 'training_dynamics'
 venue: 'NeurIPS 2022'
 author: 'E. Boursier, L. Pillaud-Vivien and N. Flammarion'
 ---
