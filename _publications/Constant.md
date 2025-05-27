@@ -6,7 +6,7 @@ permalink: /publication/Constant
 date: 2023-05-31
 excerpt: ''
 pubtype: 'conference'
-category: 'multiplayer_bandit'
+category: 'multiagent'
 venue: 'AISTATS 2024'
 author: 'H. Richard, E. Boursier and V. Perchet'
 ---
