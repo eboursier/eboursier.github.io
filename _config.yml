@@ -91,6 +91,8 @@ publication_category:
     title: 'Theory of ReLU Neural Networks'
   multitask:
     title: 'Meta/Multi-task learning'
+  online_with_prediction:
+    title: 'Online Learning with Predictions'
   multiagent:
     title: 'Multi-agent Learning'
   multiplayer_bandit:
