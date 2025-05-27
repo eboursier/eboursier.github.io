@@ -6,7 +6,7 @@ permalink: /publication/AIM
 date: 2024-10-03
 excerpt: ''
 pubtype: 'conference'
-category: 'relu_networks'
+category: 'training_dynamics'
 venue: 'ICML 2025'
 author: 'E. Boursier and N. Flammarion'
 ---
