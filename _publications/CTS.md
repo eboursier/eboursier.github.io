@@ -6,7 +6,7 @@ permalink: /publication/CTS
 date: 2020-06-12
 excerpt: ''
 pubtype: 'conference'
-category: 'bandit'
+category: 'online'
 venue: 'NeurIPS 2020'
 author: 'P. Perrault, E. Boursier, V. Perchet and M. Valko'
 ---
