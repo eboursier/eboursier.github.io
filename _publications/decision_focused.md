@@ -6,6 +6,6 @@ permalink: /publication/decision-focused
 date: 2025-05-19
 excerpt: ''
 pubtype: 'preprint'
-category: 'online_with_prediction'
+category: 'online'
 author: 'A. Capitaine, M. Haddouche, E. Moulines, M. Jordan, E. Boursier, A. Durmus'
 ---
