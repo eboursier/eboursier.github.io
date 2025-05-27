@@ -6,7 +6,7 @@ permalink: /publication/selfish-multiplayer
 date: 2020-02-05
 excerpt: ''
 pubtype: 'conference'
-category: 'multiplayer_bandit'
+category: 'multiagent'
 venue: 'COLT 2020'
 author: 'E. Boursier and V. Perchet'
 ---
