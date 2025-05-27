@@ -6,7 +6,7 @@ permalink: /publication/penalising
 date: 2023-03-03
 excerpt: ''
 pubtype: 'conference'
-category: 'relu_networks'
+category: 'landscape'
 venue: 'NeurIPS 2023'
 author: 'E. Boursier and N. Flammarion'
 ---
