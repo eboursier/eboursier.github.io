@@ -6,7 +6,7 @@ permalink: /publication/uber_paper
 date: 2021-02-17
 excerpt: ''
 pubtype: 'conference'
-category: 'bandit'
+category: 'online'
 venue: 'NeurIPS 2021'
 author: 'E. Boursier, T.Garrec, V. Perchet and M. Scarsini'
 ---
