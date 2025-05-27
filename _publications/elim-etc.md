@@ -7,7 +7,7 @@ permalink: /publication/elim-etc
 date: 2019-06-06
 excerpt: ''
 pubtype: 'conference'
-category: 'multiplayer_bandit'
+category: 'multiagent'
 venue: 'AISTATS 2020'
 author: 'E. Boursier, E. Kaufmann, A. Mehrabian and V. Perchet'
 ---
