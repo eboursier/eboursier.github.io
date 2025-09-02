@@ -11,11 +11,11 @@ location: "Orsay, France"
 
 Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
-## Year 2024-2025
+## Year 2025-2026
 
-Courses are every Tuesday, 2pm-5pm in room 1A11.
+Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 
-**Note:** there is no course on October 29 and November 19.
+**Note:** there is no course on October 21 and 28.
 
 
 ## Course Evaluation
