@@ -24,6 +24,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 
 <code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. </code>
 
+[Homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). Submission deadline is November 12 at 7pm. Send your final homework as pdf by email.
+
 ## Lecture Notes
 
 - [Lecture 1](https://eboursier.github.io/files/sequential_course/lecture_1.pdf) (learning with experts)
@@ -37,8 +39,6 @@ Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 
 - [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4)
 - [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8)
-
-[//]: # ([Homework 2023](https://eboursier.github.io/files/sequential_course/homework.pdf))
 
 ## Bibliographic Resources
 
