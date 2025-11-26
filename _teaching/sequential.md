@@ -38,7 +38,7 @@ Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 - [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (pure exploration)
 
 - [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4, [correction](https://eboursier.github.io/files/sequential_course/correction_sheet1.pdf))
-- [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8)
+- [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8, [correction](https://eboursier.github.io/files/sequential_course/correction_sheet2.pdf))
 
 ## Bibliographic Resources
 
