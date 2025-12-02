@@ -22,7 +22,7 @@ Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 - 1 homework
 - 1 final written exam. 
 
-<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. </code>
+<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be in room A01 on December 16 at 2pm.</code>
 
 [Homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). Submission deadline is November 12 at 7pm. Send your final homework as pdf by email.
 
