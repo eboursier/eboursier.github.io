@@ -16,7 +16,7 @@ In 2021, I completed a PhD at ENS Paris-Saclay, started in September 2018 under 
 
 Have a look at my (hopefully updated) [CV](http://eboursier.github.io/files/boursier_cv.pdf) for additional information!
 
-Please, do not hesitate to ask me any question or supplementary material (code, slides...) by email.
+If you are interested in an internship/PhD/postdoc with me on deep learning theory related topics, please do not hesitate to contact me by email.
 
 [//]: ## News
 [//]: * I was invited to the [Symposium on Sparsity and Singular Structures](https://sfb1481.rwth-aachen.de/symposium24) in Aachen to talk about our latest work [Early alignment in two-layer networks training is a two-edged sword](https://arxiv.org/abs/2401.10791). You can have a look at the slides [here](https://eboursier.github.io/files/aachen_slides/index.html#0).  <sub><sup><span style="color:grey">28-02-2024</span></sup></sub>
