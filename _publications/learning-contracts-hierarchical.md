@@ -1,5 +1,5 @@
 ---
-title: "Learning Contracts in Hierarchical Multi-Agent Systems"
+title: "Online Decision-Making in Tree-Like Multi-Agent Games with Transfers"
 collection: publications
 link: https://arxiv.org/abs/2501.19388
 permalink: /publication/learning-contracts
