@@ -7,9 +7,17 @@
 main:
   - title: "Publications"
     url: /publications/
+    multi:
+      - title: "by Type"
+        url: /publications/
+      - title: "by Topic"
+        url: /publications_topic/
+  
+  #- title: "Publication"
+  #  url: /publications/
 
-  - title: "by topic"
-    url: /publications_topic/
+  #- title: "by Topic"
+  #  url: /publications_topic/
 
   #- title: "Talks"
  #   url: /talks/    
