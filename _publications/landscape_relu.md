@@ -3,7 +3,7 @@ title: "Favorability of Loss Landscape with Weight Decay Requires Both Large Ove
 collection: publications
 link: https://arxiv.org/abs/2505.22578
 permalink: /publication/grokking
-date: 2025-05-28
+date: 2026-06-29
 excerpt: ''
 pubtype: 'journal'
 venue: 'Transactions on Machine Learning Research'
