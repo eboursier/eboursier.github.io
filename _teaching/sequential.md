@@ -13,7 +13,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Year 2025-2026
 
-Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 29, until December 1st.
+Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, until December 1st.
 
 **Note:** there is no course on October 27.
 
