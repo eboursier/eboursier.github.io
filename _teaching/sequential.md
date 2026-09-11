@@ -13,18 +13,16 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
 ## Year 2025-2026
 
-Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
+Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 29, until December 1st.
 
-**Note:** there is no course on October 21 and 28.
+**Note:** there is no course on October 27.
 
 
 ## Course Evaluation
-- 1 homework
-- 1 final written exam. 
+- 1 homework (20%)
+- 1 final written exam (80%) 
 
-<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be in room 0A1 on December 16 at 2pm.</code>
-
-[Homework is available here](https://eboursier.github.io/files/sequential_course/homework.pdf). Submission deadline is November 12 at 7pm. Send your final homework as pdf by email.
+<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be on December 15 at 2pm.</code>
 
 ## Lecture Notes
 
@@ -37,8 +35,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A11, starting from September 23.
 - [Lecture 7](https://eboursier.github.io/files/sequential_course/lecture_7.pdf) (contextual linear bandits)
 - [Lecture 8](https://eboursier.github.io/files/sequential_course/lecture_8.pdf) (pure exploration)
 
-- [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4, [correction](https://eboursier.github.io/files/sequential_course/correction_sheet1.pdf))
-- [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8, [correction](https://eboursier.github.io/files/sequential_course/correction_sheet2.pdf))
+- [Exercise sheet n°1](https://eboursier.github.io/files/sequential_course/exercises_sheet1.pdf) (lectures 1 to 4)
+- [Exercise sheet n°2](https://eboursier.github.io/files/sequential_course/exercises_sheet2.pdf) (lectures 5 to 8)
 
 ## Bibliographic Resources
 
