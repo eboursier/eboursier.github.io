@@ -11,7 +11,7 @@ location: "Orsay, France"
 
 Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 
-## Year 2025-2026
+## Year 2026-2027
 
 Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, until December 1st.
 
@@ -22,7 +22,7 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
 - 1 homework (20%)
 - 1 final written exam (80%) 
 
-<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be on December 15 at 2pm.</code>
+<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be on December 15 at 2pm in room 0A4.</code>
 
 ## Lecture Notes
 
