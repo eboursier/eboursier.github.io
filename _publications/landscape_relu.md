@@ -2,7 +2,7 @@
 title: "Favorability of Loss Landscape with Weight Decay Requires Both Large Overparametrization and Initialization"
 collection: publications
 link: https://arxiv.org/abs/2505.22578
-permalink: /publication/grokking
+permalink: /publication/landscape_relu
 date: 2026-06-29
 excerpt: ''
 pubtype: 'journal'
