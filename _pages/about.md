@@ -20,17 +20,14 @@ If you are interested in an internship/PhD/postdoc with me on deep learning theo
 
 ## PhD Students
 
-Victor Turmel, co-advised with [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/)
-
-Simon Gabet, co-advised with [Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)
-
-Antoine Guillou, co-advised with [Alain Durmus](https://alain.perso.math.cnrs.fr) and [Antonio Ocello](https://antonio-ocello.github.io)
+- Victor Turmel, co-advised with [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/)
+- Simon Gabet, co-advised with [Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)
+- Antoine Guillou, co-advised with [Alain Durmus](https://alain.perso.math.cnrs.fr) and [Antonio Ocello](https://antonio-ocello.github.io)
 
 ## Alumni
 
-[Aymeric Capitaine](https://aymericcapitaine.github.io) (2023-2026), now postdoc at EPFL
-
-Antoine Scheid (2023-2026), now at Netflix
+- [Aymeric Capitaine](https://aymericcapitaine.github.io) (2023-2026), now postdoc at EPFL
+- Antoine Scheid (2023-2026), now at Netflix
 
 [//]: ## News
 [//]: * I was invited to the [Symposium on Sparsity and Singular Structures](https://sfb1481.rwth-aachen.de/symposium24) in Aachen to talk about our latest work [Early alignment in two-layer networks training is a two-edged sword](https://arxiv.org/abs/2401.10791). You can have a look at the slides [here](https://eboursier.github.io/files/aachen_slides/index.html#0).  <sub><sup><span style="color:grey">28-02-2024</span></sup></sub>
