@@ -21,12 +21,15 @@ If you are interested in an internship/PhD/postdoc with me on deep learning theo
 ## PhD Students
 
 Victor Turmel, co-advised with [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/)
+
 Simon Gabet, co-advised with [Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)
+
 Antoine Guillou, co-advised with [Alain Durmus](https://alain.perso.math.cnrs.fr) and [Antonio Ocello](https://antonio-ocello.github.io)
 
 ## Alumni
 
 [Aymeric Capitaine](https://aymericcapitaine.github.io) (2023-2026), now postdoc at EPFL
+
 Antoine Scheid (2023-2026), now at Netflix
 
 [//]: ## News
