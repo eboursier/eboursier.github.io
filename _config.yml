@@ -87,6 +87,8 @@ publication_pubtype:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  attention:
+   title: 'Theory of Attention'
   training_dynamics:
     title: 'Training Dynamics for Deep Learning'
   landscape:
