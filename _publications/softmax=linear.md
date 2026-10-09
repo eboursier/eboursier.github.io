@@ -6,7 +6,7 @@ permalink: /publication/softmax=linear
 date: 2025-12-12
 excerpt: ''
 pubtype: 'conference'
-category: 'training_dynamics'
+category: 'attention'
 venue: 'ICML 2026'
 author: 'E. Boursier, C. Boyer'
 ---
