@@ -17,6 +17,10 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
 
 **Note:** there is no course on October 6 and October 27.
 
+ <p style="color: red; font-weight: bold;">
+  Due to student protests, there will be no class on Tuesday, October 13.
+  The next class will take place on October 20.
+</p>
 
 ## Course Evaluation
 - 1 homework (20%)
