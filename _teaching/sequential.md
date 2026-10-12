@@ -26,7 +26,7 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
 - 1 homework (20%)
 - 1 final written exam (80%) 
 
-<code style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be on December 15 at 2pm in room 0A4.</code>
+<p style="color : Red">Each student is allowed a single handwritten, two-sides, cheatsheet for the exam. Exam will be on December 15 at 2pm in room 0A4.</p>
 
 ## Lecture Notes
 
