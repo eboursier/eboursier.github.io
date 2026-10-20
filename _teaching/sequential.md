@@ -19,8 +19,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
 
 <div style="border: 2px solid #cc0000; background-color: #fff0f0; padding: 15px 20px; margin: 20px 0; border-radius: 6px; color: #cc0000; font-weight: bold;">
   <p style="margin: 0;">
-    Due to student protests, there will be no class on Tuesday, October 13.
-    The next class will take place on October 20.
+    Due to student protests, there will be no class on Tuesday, October 20.
+    The next class will take place on November 3rd.
   </p>
 </div>
 
