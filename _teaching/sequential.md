@@ -17,12 +17,6 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
 
 **Note:** there is no course on October 6 and October 27.
 
-<div style="border: 2px solid #cc0000; background-color: #fff0f0; padding: 15px 20px; margin: 20px 0; border-radius: 6px; color: #cc0000; font-weight: bold;">
-  <p style="margin: 0;">
-    Due to student protests, the class of November 3rd will be taught online (via zoom) from 2pm to 5pm, here: https://universite-paris-saclay-fr.zoom.us/j/7439968112
-  </p>
-</div>
-
 ## Course Evaluation
 - 1 homework (20%)
 - 1 final written exam (80%)
