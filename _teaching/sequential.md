@@ -16,7 +16,7 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, until December 1st.
 
 <div style="border: 1px solid #ccc; padding: 12px; border-radius: 6px;">
-  The course of Tuesday, November 10th, will be done on zoom <a href="https://universite-paris-saclay-fr.zoom.us/j/7439968112">here</a>.
+  Last lecture: we stopped after stating the theorem on the regret bound of the UCB algorithm (Lecture 4 on the documents available on the website). We skipped the following: proof of epsilon-greedy regret, successive eliminations algorithm.
 </div>
 
 ## Course Evaluation
