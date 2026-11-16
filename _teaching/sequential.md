@@ -19,6 +19,8 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
   Last lecture: we stopped after stating the theorem on the regret bound of the UCB algorithm (Lecture 4 on the documents available on the website). We skipped the following: proof of epsilon-greedy regret, successive eliminations algorithm.
 </div>
 
+The course of October 17th will take place on Ecole Polytechnique campus, room 106.2003 in Liouville building, from 2pm to 5pm.
+
 ## Course Evaluation
 - 1 homework (20%)
 - 1 final written exam (80%)
