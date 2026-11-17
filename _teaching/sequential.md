@@ -16,10 +16,8 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, until December 15th. There is no course on December 8th.
 
 <div style="border: 1px solid #ccc; padding: 12px; border-radius: 6px;">
-  Last lecture: we stopped after stating the theorem on the regret bound of the UCB algorithm (Lecture 4 on the documents available on the website). We skipped the following: proof of epsilon-greedy regret, successive eliminations algorithm.
+  Last lecture (October 17th): we stopped after stating the lower bound theorem of Lai & Robbins, and Burnetas & Katehakis (Lecture 5 on the documents available on the website).
 </div>
-
-The course of October 17th will take place on Ecole Polytechnique campus, room 106.2003 in Liouville building, from 2pm to 5pm.
 
 ## Course Evaluation
 - 1 homework (20%)
