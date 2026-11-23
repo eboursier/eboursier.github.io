@@ -19,6 +19,9 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
   Last lecture (October 17th): we stopped after stating the lower bound theorem of Lai & Robbins, and Burnetas & Katehakis (Lecture 5 on the documents available on the website).
 </div>
 
+
+<p style="color : Red">Lecture of November 24th will be on Ecole Polytechnique Campus, Batiment d'Enseignement Mutualise (BEM), room 2005.</p>
+
 ## Course Evaluation
 - 1 homework (20%)
 - 1 final written exam (80%)
