@@ -16,11 +16,8 @@ Sequential Learning course for Master 2 Mathématiques de l'Aléatoire & MathIA.
 Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, until December 15th. There is no course on December 8th.
 
 <div style="border: 1px solid #ccc; padding: 12px; border-radius: 6px;">
-  Last lecture (October 17th): we stopped after stating the lower bound theorem of Lai & Robbins, and Burnetas & Katehakis (Lecture 5 on the documents available on the website).
+  Last lecture (October 24th): we stopped at the end of Lecture 6.
 </div>
-
-
-<p style="color : Red">Lecture of November 24th will be on Ecole Polytechnique Campus, Batiment d'Enseignement Mutualise (BEM), room 2005.</p>
 
 ## Course Evaluation
 - 1 homework (20%)
