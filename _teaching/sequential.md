@@ -19,6 +19,9 @@ Courses are every Tuesday, 2pm-5pm in room 1A12, starting from September 29, unt
   Last lecture (October 24th): we stopped at the end of Lecture 6.
 </div>
 
+<p style="color : Red">Next lecture (December 1st) will be on Polytechnique campus, building 106, room 20.01.</p>
+
+
 ## Course Evaluation
 - 1 homework (20%)
 - 1 final written exam (80%)
